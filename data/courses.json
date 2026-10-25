@@ -1,0 +1,352 @@
+[
+ {
+  "id": "pm-101",
+  "title": "Product Management Fundamentals",
+  "domain": "Product Management",
+  "skills": [
+   "Product Thinking",
+   "User Research",
+   "Stakeholder Management"
+  ],
+  "level": "Beginner",
+  "duration": "4 weeks",
+  "description": "Learn what product managers do, how to frame problems and talk to users.",
+  "url": "https://example.com/beep-demo/courses/pm-101"
+ },
+ {
+  "id": "pm-201",
+  "title": "Product Roadmaps & Prioritization",
+  "domain": "Product Management",
+  "skills": [
+   "Roadmapping",
+   "Prioritization Frameworks",
+   "Product Strategy"
+  ],
+  "level": "Intermediate",
+  "duration": "3 weeks",
+  "description": "Turn goals into a roadmap using RICE, MoSCoW and impact mapping.",
+  "url": "https://example.com/beep-demo/courses/pm-201"
+ },
+ {
+  "id": "pm-301",
+  "title": "Product Analytics & Experimentation",
+  "domain": "Product Management",
+  "skills": [
+   "A/B Testing",
+   "Product Metrics",
+   "SQL"
+  ],
+  "level": "Advanced",
+  "duration": "5 weeks",
+  "description": "Define success metrics, run experiments and read funnels like a PM.",
+  "url": "https://example.com/beep-demo/courses/pm-301"
+ },
+ {
+  "id": "prj-101",
+  "title": "Project Management Essentials",
+  "domain": "Project Management",
+  "skills": [
+   "Project Planning",
+   "Scope Management",
+   "Risk Management"
+  ],
+  "level": "Beginner",
+  "duration": "4 weeks",
+  "description": "Plan, schedule and deliver projects with clear scope and risk checks.",
+  "url": "https://example.com/beep-demo/courses/prj-101"
+ },
+ {
+  "id": "prj-201",
+  "title": "Agile & Scrum in Practice",
+  "domain": "Project Management",
+  "skills": [
+   "Agile",
+   "Scrum",
+   "Sprint Planning"
+  ],
+  "level": "Intermediate",
+  "duration": "3 weeks",
+  "description": "Run sprints, standups and retros with real team scenarios.",
+  "url": "https://example.com/beep-demo/courses/prj-201"
+ },
+ {
+  "id": "prj-301",
+  "title": "PMP Exam Preparation",
+  "domain": "Project Management",
+  "skills": [
+   "PMP Certification",
+   "Budgeting",
+   "Stakeholder Management"
+  ],
+  "level": "Advanced",
+  "duration": "8 weeks",
+  "description": "Structured prep for the PMP exam with mock tests and case reviews.",
+  "url": "https://example.com/beep-demo/courses/prj-301"
+ },
+ {
+  "id": "ba-101",
+  "title": "Business Analysis Foundations",
+  "domain": "Business Analytics",
+  "skills": [
+   "Requirements Gathering",
+   "Business Analysis",
+   "Process Mapping"
+  ],
+  "level": "Beginner",
+  "duration": "4 weeks",
+  "description": "Learn to translate business needs into clear requirements.",
+  "url": "https://example.com/beep-demo/courses/ba-101"
+ },
+ {
+  "id": "ba-201",
+  "title": "Excel & Power BI for Business Insights",
+  "domain": "Business Analytics",
+  "skills": [
+   "Advanced Excel",
+   "Power BI",
+   "Data Visualization"
+  ],
+  "level": "Intermediate",
+  "duration": "5 weeks",
+  "description": "Build interactive dashboards that answer real business questions.",
+  "url": "https://example.com/beep-demo/courses/ba-201"
+ },
+ {
+  "id": "ba-301",
+  "title": "Data Storytelling for Decision Makers",
+  "domain": "Business Analytics",
+  "skills": [
+   "Data Storytelling",
+   "Presentation",
+   "KPI Design"
+  ],
+  "level": "Intermediate",
+  "duration": "3 weeks",
+  "description": "Present insights so leaders act on them.",
+  "url": "https://example.com/beep-demo/courses/ba-301"
+ },
+ {
+  "id": "da-101",
+  "title": "SQL for Data Analysis",
+  "domain": "Data Analytics",
+  "skills": [
+   "SQL",
+   "Data Cleaning",
+   "Joins & Aggregations"
+  ],
+  "level": "Beginner",
+  "duration": "4 weeks",
+  "description": "Query, filter and summarize data from relational databases.",
+  "url": "https://example.com/beep-demo/courses/da-101"
+ },
+ {
+  "id": "da-201",
+  "title": "Python for Data Analytics",
+  "domain": "Data Analytics",
+  "skills": [
+   "Python",
+   "Pandas",
+   "Exploratory Data Analysis"
+  ],
+  "level": "Intermediate",
+  "duration": "6 weeks",
+  "description": "Clean and explore datasets with Python and Pandas.",
+  "url": "https://example.com/beep-demo/courses/da-201"
+ },
+ {
+  "id": "da-301",
+  "title": "Statistics for Analysts",
+  "domain": "Data Analytics",
+  "skills": [
+   "Statistics",
+   "Hypothesis Testing",
+   "A/B Testing"
+  ],
+  "level": "Intermediate",
+  "duration": "4 weeks",
+  "description": "Practical statistics: distributions, testing and confidence intervals.",
+  "url": "https://example.com/beep-demo/courses/da-301"
+ },
+ {
+  "id": "da-401",
+  "title": "Dashboards with Tableau",
+  "domain": "Data Analytics",
+  "skills": [
+   "Tableau",
+   "Data Visualization",
+   "Dashboard Design"
+  ],
+  "level": "Intermediate",
+  "duration": "3 weeks",
+  "description": "Design clear, interactive dashboards stakeholders actually use.",
+  "url": "https://example.com/beep-demo/courses/da-401"
+ },
+ {
+  "id": "ml-101",
+  "title": "Machine Learning Foundations",
+  "domain": "AI/ML",
+  "skills": [
+   "Machine Learning",
+   "Python",
+   "Model Evaluation"
+  ],
+  "level": "Beginner",
+  "duration": "6 weeks",
+  "description": "Train and evaluate your first supervised learning models.",
+  "url": "https://example.com/beep-demo/courses/ml-101"
+ },
+ {
+  "id": "ml-201",
+  "title": "Deep Learning with PyTorch",
+  "domain": "AI/ML",
+  "skills": [
+   "Deep Learning",
+   "PyTorch",
+   "Neural Networks"
+  ],
+  "level": "Advanced",
+  "duration": "8 weeks",
+  "description": "Build neural networks for vision and text tasks.",
+  "url": "https://example.com/beep-demo/courses/ml-201"
+ },
+ {
+  "id": "ml-301",
+  "title": "Prompt Engineering & LLM Apps",
+  "domain": "AI/ML",
+  "skills": [
+   "Prompt Engineering",
+   "LLM Applications",
+   "API Integration"
+  ],
+  "level": "Intermediate",
+  "duration": "3 weeks",
+  "description": "Design prompts and ship small apps on top of language models.",
+  "url": "https://example.com/beep-demo/courses/ml-301"
+ },
+ {
+  "id": "sd-101",
+  "title": "Web Development Basics: HTML, CSS & JavaScript",
+  "domain": "Software Development",
+  "skills": [
+   "HTML",
+   "CSS",
+   "JavaScript"
+  ],
+  "level": "Beginner",
+  "duration": "6 weeks",
+  "description": "Build responsive websites from scratch.",
+  "url": "https://example.com/beep-demo/courses/sd-101"
+ },
+ {
+  "id": "sd-201",
+  "title": "React & TypeScript Essentials",
+  "domain": "Software Development",
+  "skills": [
+   "React",
+   "TypeScript",
+   "Frontend Development"
+  ],
+  "level": "Intermediate",
+  "duration": "5 weeks",
+  "description": "Build modern interfaces with components, state and typed code.",
+  "url": "https://example.com/beep-demo/courses/sd-201"
+ },
+ {
+  "id": "sd-301",
+  "title": "Backend Development with Node.js",
+  "domain": "Software Development",
+  "skills": [
+   "Node.js",
+   "REST APIs",
+   "Databases"
+  ],
+  "level": "Intermediate",
+  "duration": "6 weeks",
+  "description": "Create and deploy REST APIs backed by a database.",
+  "url": "https://example.com/beep-demo/courses/sd-301"
+ },
+ {
+  "id": "sd-401",
+  "title": "Data Structures & Algorithms for Interviews",
+  "domain": "Software Development",
+  "skills": [
+   "Data Structures",
+   "Algorithms",
+   "Problem Solving"
+  ],
+  "level": "Advanced",
+  "duration": "8 weeks",
+  "description": "Practice the patterns behind coding interview questions.",
+  "url": "https://example.com/beep-demo/courses/sd-401"
+ },
+ {
+  "id": "dm-101",
+  "title": "Digital Marketing Fundamentals",
+  "domain": "Digital Marketing",
+  "skills": [
+   "Marketing Basics",
+   "Content Marketing",
+   "Social Media"
+  ],
+  "level": "Beginner",
+  "duration": "4 weeks",
+  "description": "Understand channels, funnels and how campaigns work.",
+  "url": "https://example.com/beep-demo/courses/dm-101"
+ },
+ {
+  "id": "dm-201",
+  "title": "SEO & Content Strategy",
+  "domain": "Digital Marketing",
+  "skills": [
+   "SEO",
+   "Content Strategy",
+   "Keyword Research"
+  ],
+  "level": "Intermediate",
+  "duration": "4 weeks",
+  "description": "Rank content and plan a publishing calendar that earns traffic.",
+  "url": "https://example.com/beep-demo/courses/dm-201"
+ },
+ {
+  "id": "dm-301",
+  "title": "Performance Marketing & Google Ads",
+  "domain": "Digital Marketing",
+  "skills": [
+   "Google Ads",
+   "Performance Marketing",
+   "Campaign Analytics"
+  ],
+  "level": "Intermediate",
+  "duration": "5 weeks",
+  "description": "Run paid campaigns and optimize cost per acquisition.",
+  "url": "https://example.com/beep-demo/courses/dm-301"
+ },
+ {
+  "id": "fin-101",
+  "title": "Financial Accounting Basics",
+  "domain": "Finance",
+  "skills": [
+   "Financial Accounting",
+   "Financial Statements",
+   "Budgeting"
+  ],
+  "level": "Beginner",
+  "duration": "4 weeks",
+  "description": "Read and prepare balance sheets, P&L and cash flow statements.",
+  "url": "https://example.com/beep-demo/courses/fin-101"
+ },
+ {
+  "id": "fin-201",
+  "title": "Financial Modeling in Excel",
+  "domain": "Finance",
+  "skills": [
+   "Financial Modeling",
+   "Advanced Excel",
+   "Valuation"
+  ],
+  "level": "Advanced",
+  "duration": "6 weeks",
+  "description": "Build 3-statement models and DCF valuations step by step.",
+  "url": "https://example.com/beep-demo/courses/fin-201"
+ }
+]

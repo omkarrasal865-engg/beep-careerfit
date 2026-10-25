@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body { background: #FAF6EC; color: #101114; -webkit-font-smoothing: antialiased; }
+:focus-visible { outline: 2px solid #2557F6; outline-offset: 2px; }
+@keyframes pop { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+.pop { animation: pop .35s ease both; }
+@media (prefers-reduced-motion: reduce) { .pop { animation: none; } }
